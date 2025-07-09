@@ -22,4 +22,9 @@ int main()
         cout << "Masukkan nama ke " << i + 1 << " = ";
         cin >> nama[i];
     }
+
+    cout << endl;
+    cout << "Menampilkan Array Nama" << endl;
+    cout << endl;
+    
 }
