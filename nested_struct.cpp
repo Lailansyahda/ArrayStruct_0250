@@ -6,3 +6,8 @@ struct DetailAlamat
     string kota;
     string provinsi;
 };
+
+struct Mahasiswa
+{
+    
+};
