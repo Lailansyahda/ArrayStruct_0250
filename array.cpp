@@ -16,5 +16,10 @@ int main()
     nilai[2] = 100;
     cout << "Nilai array ke 3 = " << nilai[2] << endl;
 
-    
+    //mengisi nilai array dengan menggunakan looping for
+    for (int i=0; i < 4; i++)
+    {
+        cout << "Masukkan nama ke " << i + 1 << " = ";
+        cin >> nama[i];
+    }
 }
